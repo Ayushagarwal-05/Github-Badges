@@ -2,6 +2,7 @@ REPO for Badges
 .
 .
 .
+
 1. Pull Shark
 .
 .
@@ -14,4 +15,9 @@ REPO for Badges
 .
 .
 .
+4. Minor documentation update for contributors.
+.
+.
+.
 The End
+
